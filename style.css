@@ -10,21 +10,28 @@ main, footer{
 
 .writtenby{
     color: grey;
+    font-size: 18px;
 }
 
 .background{
-    background-color: rgb(15, 70, 173);
+    background-color: rgb(11, 126, 219);
+    margin: 0 15% 0 15%;
 }
 
 .pattern{
     background-image: url('img/pattern.png');
     background-size: contain;
 }
-      
+
+h1{
+    font-size: 45px;
+    font-weight: 50px;
+}
+    
     
 .logo{
-    width: 15%;
-    margin: 1% 0 0 22% ;
+    width: 20%;
+    margin: 2% 0 0 10% ;
 }
        
 .tabella{
