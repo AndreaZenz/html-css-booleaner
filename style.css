@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    
 }
 
 main, footer{
@@ -59,9 +60,26 @@ tr{
     
 .footercolor{
     color: gray;
+    font-size: 30px;
 }
 
+.footerphoto1{
+    background-image: url('img/monitor.jpg');
+    width: 250px;
+    height: 200px;
+}
 
+.footerphoto2{
+    background-image: url('img/graph.jpg');
+    width: 250px;
+    height: 200px;
+}
+
+.footerimagetext{
+    color:white;
+    font-size: 30px;
+}
+    
 
 
     
