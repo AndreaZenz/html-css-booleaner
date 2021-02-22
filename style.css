@@ -1,19 +1,77 @@
-main{
-    margin: 0 22% 0 22%;
-
+body{
+    margin: 0px;
 }
+
+main, footer{
+    margin: 0 22% 0 22%;
+}
+
 
 .writtenby{
     color: grey;
 }
 
-.booleaner{
-    background-image:img\pattern.png ;
-    
+.background{
+    background-color: rgb(15, 70, 173);
 }
 
+.pattern{
+    background-image: url('img/pattern.png');
+    background-size: contain;
+}
+      
+    
 .logo{
     width: 15%;
-    background-image:img\pattern.png ;
+    margin: 1% 0 0 22% ;
+}
+       
+.tabella{
+    border-collapse: collapse;
 }
     
+th {
+    text-align: left;
+    padding: 5px;
+}
+    
+.tabletitle{
+    background-color:rgb(14, 144, 184);
+    color: white;
+    padding: 0px;
+}
+    
+tr{
+    background-color: rgb(155, 209, 245) ;
+}
+
+.first{
+    width: 200px;
+}
+
+.second{
+    width: 200px;
+}
+
+#whiterow{
+    background-color: white;
+}
+    
+.footercolor{
+    color: gray;
+}
+
+
+
+
+    
+
+
+
+
+    
+    
+    
+
+    
+   
